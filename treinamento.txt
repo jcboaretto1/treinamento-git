@@ -2,4 +2,4 @@ Treinamento SerraTec git - sextou!!!
 
 Victor tem que atualizar o cmd!!
 
-Este comentário estou colocando na Branch de novo-recurso
+Este comentário estou colocando na Branch de novo-recurso e fazendo alteracao p dar erro
